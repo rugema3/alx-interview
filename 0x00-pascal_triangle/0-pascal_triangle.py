@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+0-pascal_triangle
+"""
 def pascal_triangle(n):
     """Define pascal_triangle function.
     Description:
